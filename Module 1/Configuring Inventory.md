@@ -9,7 +9,7 @@
 
 Static inventory:
 
-```
+```ini
 [webservers]
 web[1:9].example.com
 web12.example.com
